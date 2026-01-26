@@ -76,3 +76,8 @@ Passionate about coding, I enjoy building projects, learning new technologies, a
 - Learning **clean code & best practices**
 
 Always open to collaboration and new opportunities 🚀
+
+### 🧠 Tech Focus
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoninathan0&layout=compact&theme=tokyonight)
+
