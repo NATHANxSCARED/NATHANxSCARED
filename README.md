@@ -82,15 +82,6 @@ radar
 </p>
 
 ---
-radar
-    title Nathan Vittoni - Skills
-    Web : 85
-    UI_UX : 75
-    Backend : 80
-    DevOps : 70
-    AI : 60
-    SQL : 85
----
 
 ### 🚀 Currently
 - Improving **full-stack development**
