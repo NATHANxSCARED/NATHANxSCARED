@@ -69,6 +69,15 @@ Passionate about coding, I enjoy building projects, learning new technologies, a
 </p>
 
 ---
+radar
+    title Nathan Vittoni - Skills
+    Web : 85
+    UI_UX : 75
+    Backend : 80
+    DevOps : 70
+    AI : 60
+    SQL : 85
+---
 
 ### 🚀 Currently
 - Improving **full-stack development**
@@ -77,7 +86,4 @@ Passionate about coding, I enjoy building projects, learning new technologies, a
 
 Always open to collaboration and new opportunities 🚀
 
-### 🧠 Tech Focus
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoninathan0&layout=compact&theme=tokyonight)
 
