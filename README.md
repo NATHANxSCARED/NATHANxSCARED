@@ -14,6 +14,19 @@ Passionate about coding, I enjoy building projects, learning new technologies, a
 
 ---
 
+## 📊 Skill Radar
+
+```mermaid
+radar
+    title Nathan Vittoni - Skills
+    Web : 85
+    UI_UX : 75
+    Backend : 80
+    DevOps : 70
+    AI : 60
+    SQL : 85
+```
+
 ### 🛠️ Skills
 
 #### 💻 Programming Languages
