@@ -17,7 +17,13 @@ Passionate about coding, I enjoy building projects, learning new technologies, a
 
 ## 📊 Skill Radar
 
-![Skill Radar](https://quickchart.io/chart?c={type:'radar',data:{labels:['Web','UI/UX','Backend','DevOps','AI','SQL'],datasets:[{label:'Nathan%20Vittoni',data:[80,90,70,80,41,90],backgroundColor:'rgba(0,255,150,0.25)',borderColor:'rgb(0,255,150)',borderWidth:2,pointBackgroundColor:'rgb(0,255,150)',pointBorderColor:'rgb(0,255,150)'}]},options:{plugins:{legend:{labels:{color:'white'}}},scales:{r:{min:0,max:100,ticks:{display:false},pointLabels:{color:'white'},grid:{color:'rgba(0,255,150,0.2)'},angleLines:{color:'rgba(0,255,150,0.2)'}}}}}&backgroundColor=black&width=700&height=450)
+![Skill Radar](https://quickchart.io/chart?c={type:'radar',data:{labels:['Web','UI/UX','Backend','DevOps','AI','SQL'],datasets:[{label:'',data:[80,90,70,80,41,90],backgroundColor:'rgba(0,255,150,0.25)',borderColor:'rgb(0,255,150)',borderWidth:2,pointBackgroundColor:'rgb(0,255,150)',pointBorderColor:'rgb(0,255,150)'}]},options:{plugins:{legend:{labels:{color:'white'}}},scales:{r:{min:0,max:100,
+ticks:{display:false,showLabelBackdrop:false},
+pointLabels:{color:'white'},
+grid:{color:'rgba(0,255,150,0.2)'},
+angleLines:{color:'rgba(0,255,150,0.2)'}
+}}}}&backgroundColor=black&width=700&height=450)
+
 
 
 
